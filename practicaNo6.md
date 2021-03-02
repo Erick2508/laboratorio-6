@@ -110,7 +110,7 @@ Con el multímetro digital mida el voltaje de salida en RL:
 
 VRL: 9.72[V]
 
-Compare el voltaje medido en el punto 10.5. y el obtenido en el punto 10.7.
+Compare el voltaje medido
 
 ¿Coinciden?
 
