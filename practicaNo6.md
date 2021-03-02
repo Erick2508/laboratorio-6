@@ -92,13 +92,13 @@ La posición por division es: 2 Volts/div
 
 ¿En qué valor está posicionada la perilla TIME/DIV?
 
-50ms Time/Div
+50us Time/Div
 
 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: 11.20(V)
+Amplitud de voltaje: 11.30(V)
 
-Periodo: 0.0004(s) >> 4*10(-4) (s)
+Periodo: 4*10(-4) (s)
 
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
