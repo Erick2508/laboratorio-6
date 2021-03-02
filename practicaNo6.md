@@ -2,7 +2,7 @@
 |Carrera:Electrónica y automatización|Nivel:Segundo|Paralelo: A|
 |---|---|---|
 |Nombres:|Jefferson Chicaiza| Erick Izurieta|
-|Tema:|caracteristicas de la onda senoidal
+|Tema:|Caracteristicas de la onda senoidal
 | |
 |Fecha de ralización:| 17/01/21|Fecha de entrega: 02/03/21|
 |Ingeniero:| Darwin|Alulema |
@@ -62,6 +62,8 @@ Diagrama3.1:Circuito con una fuente AC
 5.2.-Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
 5.3.-Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+
+![Osiloscopio](https://user-images.githubusercontent.com/75336529/109658797-fc84a780-7b34-11eb-8c50-e82107b7ff1c.png)
 
 5.4.- Proceda a responder las preguntas del item 8.
 
