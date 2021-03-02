@@ -114,4 +114,6 @@ Términos", Electronica.ugr.es, 2021. [Online]. Available: http://electronica.ug
 
 Ecured (2020). Onda Senoidal, Recuperado de: https://www.ecured.cu/Onda_senoidal#:~:text=Onda%20senoidal%20representa%20el%20valor,marcados%20en%20amplitud%20y%20tiempo.
 
-11.-*ANEXOS**
+11.-**ANEXOS**
+
+video https://youtu.be/iIRMTrmFVHQ
