@@ -21,7 +21,21 @@ Utilizar adecuadamente el Osciloscopio.
 
 2.-**MARCO TEORICO**
 
+Onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo.
 
+![ONDAS](https://user-images.githubusercontent.com/75336529/109665526-458c2a00-7b3c-11eb-921a-014f5007c045.png)
+
+Ondas senoidales
+
+Son las ondas fundamentales y eso por varias razones: Poseen unas propiedades matemáticas muy interesantes (por ejemplo con combinaciones de señales senoidales de diferente amplitud y frecuencia se puede reconstruir cualquier forma de onda), la señal que se obtiene de las tomas de corriente de cualquier casa tienen esta forma, las señales de test producidas por los circuitos osciladores de un generador de señal son también senoidales, la mayoria de las fuentes de potencia en AC (corriente alterna) producen señales senoidales.
+
+Ondas cuadradas y rectangulares
+
+Las ondas cuadradas son básicamente ondas que pasan de un estado a otro de tensión, a intervalos regulares, en un tiempo muy reducido. Son utilizadas usualmente para probar amplificadores (esto es debido a que este tipo de señales contienen en si mismas todas las frecuencias). La televisión, la radio y los ordenadores utilizan mucho este tipo de señales, fundamentalmente como relojes y temporizadores.
+
+Pulsos y flancos ó escalones
+
+Señales, como los flancos y los pulsos, que solo se presentan una sola vez, se denominan señales transitorias. Un flanco ó escalón indica un cambio repentino en el voltaje, por ejemplo cuando se conecta un interruptor de alimentación. El pulso indicaria, en este mismo ejemplo, que se ha conectado el interruptor y en un determinado tiempo se ha desconectado. Generalmente el pulso representa un bit de información atravesando un circuito de un ordenador digital ó también un pequeño defecto en un circuito (por ejemplo un falso contacto momentáneo). Es común encontrar señales de este tipo en ordenadores, equipos de rayos X y de comunicaciones.
 
 3.-**DIAGRAMA**
 
@@ -42,6 +56,8 @@ Diagrama3.1:Circuito con una fuente AC
 5.-**EXPLICACION**
 
 5.1 Armar el circuito mostrado en el diagrama 3.1.
+
+![Circuito armado](https://user-images.githubusercontent.com/75336529/109658806-ff7f9800-7b34-11eb-8e60-1a87fcab4e73.png)
 
 5.2.-Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
